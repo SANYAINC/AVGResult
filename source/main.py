@@ -10,8 +10,8 @@ def main():
         if iscode == '1' or iscode == '14ss':
             break
     if iscode == '14ss':
-        log = 'snnc'
-        pswrd = '14092001'
+        log = #HIDDEN
+        pswrd = #HIDDEN
     else:
         log = input('Пожалуйста, введите логин:\n')
         pswrd = input('И пароль:' + '\n')
